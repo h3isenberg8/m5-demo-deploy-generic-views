@@ -72,3 +72,4 @@ pytest --testdox -vvs tests/albums/
 ```python
 pytest --testdox -vvs tests/songs/
 ```# m5-demo-deploy-generic-views
+# m5-demo-deploy-generic-views
